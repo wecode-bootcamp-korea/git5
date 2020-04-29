@@ -2,7 +2,7 @@
       <tbody>
         <tr>
           <td>지환</td>
-          <td>이름</td>
+          <td>지환</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
