@@ -1,17 +1,17 @@
 <table>
       <tbody>
         <tr>
-          <td>이진아</td>
-  	  <td>이진아</td>
-	  <td>이진아</td>
-	  <td>이진아</td>
-	  <td>이진아</td>
+          <td>teddy</td>
+  	  <td>teddy</td>
+	  <td>teddy</td>
+	  <td>teddy</td>
+	  <td>teddy</td>
         <tr>
-          <td>이진아</td>
-          <td>이진아</td>
-          <td>이진아</td>
-          <td>이진아</td>
-          <td>이진아</td>
+          <td>teddy</td>
+          <td>teddy</td>
+          <td>teddy</td>
+          <td>teddy</td>
+          <td>teddy</td>
         </tr>
       </tbody>
 </table>
