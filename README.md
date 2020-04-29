@@ -1,18 +1,17 @@
 <table>
       <tbody>
         <tr>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
-        </tr>
+          <td>이진아</td>
+  	  <td>이진아</td>
+	  <td>이진아</td>
+	  <td>이진아</td>
+	  <td>이진아</td>
         <tr>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
-          <td>김혜랑</td>
+          <td>이진아</td>
+          <td>이진아</td>
+          <td>이진아</td>
+          <td>이진아</td>
+          <td>이진아</td>
         </tr>
       </tbody>
 </table>
