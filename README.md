@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>광묵</td>
+          <td>광묵</td>
+          <td>광묵</td>
+          <td>광묵</td>
+          <td>광묵</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>광묵</td>
+          <td>광묵</td>
+          <td>광묵</td>
+          <td>광묵</td>
+          <td>광묵</td>
         </tr>
       </tbody>
 </table>
