@@ -1,18 +1,26 @@
 <table>
       <tbody>
         <tr>
+<<<<<<< HEAD
           <td>지환</td>
           <td>지환</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
+=======
+          <td>김지환</td>
+          <td>김지환</td>
+          <td>김지환</td>
+          <td>김지환</td>
+          <td>김지환</td>
+>>>>>>> 433f3bbc518e1804c98d37934e6dda6e8a362757
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>김지환</td>
+          <td>김혜랑</td>
+          <td>김혜랑</td>
+          <td>김혜랑</td>
+          <td>김혜랑</td>
         </tr>
       </tbody>
 </table>
