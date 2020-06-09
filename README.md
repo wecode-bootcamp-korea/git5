@@ -1,7 +1,7 @@
 <table>
       <tbody>
         <tr>
-         <<td>김지아 </td>
+         <<td>김지ddd </td>
   	  <td>김지아짱</td>
           <td>남윤지 바보</td>
           <td>윤지 바보<td>
