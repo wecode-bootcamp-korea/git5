@@ -1,18 +1,19 @@
 <table>
       <tbody>
         <tr>
-          <<td>김지아 </td>
-  	  <td>이진아</td>
-	  <td>이진아</td>
-	  <td>이진아</td>
-	  <td>김지아짱</td>
-        <tr>
-          <td>김지아</td>
+         <<td>김지아 </td>
+  	  <td>김지아짱</td>
           <td>남윤지 바보</td>
-          <td>/td>
           <td>윤지 바보<td>
           <td>윤지 바보</td>
-        </tr>
+        <tr>
+          <td>정광묵</td>
+          <td>정광묵</td>
+          <td>정광묵goodgood</td>
+          <td>정광묵zzang</td>
+          <td>정광묵teddy</td>
+        
+</tr>
       </tbody>
 </table>
 
