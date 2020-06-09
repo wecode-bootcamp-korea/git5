@@ -1,23 +1,17 @@
 <table>
       <tbody>
         <tr>
-    <td>정광묵goodgood</td>
-  	  <td>정광묵goodman</td>
-	  <td>정광묵</td>
-	  <td>정광묵</td>
-	  <td>정광묵</td>
-        <td>광묵짜응</td>
-        <td>teddyjung</td>
-        <td>teddyjung</td>
-        <td>teddyjung</td>
-        <td>imspartan</td>
+          <td>김남우</td>
+  	  <td>김남우</td>
+	  <td>김남우</td>
+	  <td>김남우</td>
+	  <td>김남우</td>
         <tr>
-          <td>정광묵</td>
-          <td>정광묵</td>
-          <td>정광묵goodgood</td>
-          <td>정광묵zzang</td>
-          <td>정광묵teddy</td>
-        
+          <td>김남우</td>
+          <td>김남우</td>
+          <td>김남우</td>
+          <td>김남우</td>
+          <td>김남우</td>
         </tr>
       </tbody>
 </table>
